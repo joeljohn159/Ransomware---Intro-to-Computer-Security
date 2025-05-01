@@ -106,9 +106,7 @@ This project simulates a ransomware attack and its mitigation in a controlled la
    - Use `decrypt.py` to restore files (simulating ransom payment).
 5. **Reset**:
    - Delete `~/critical` to start over:
-     ```
      rm -rf ~/critical
-     ```
    - Recreate the structure using the commands above.
 
 ## Notes
